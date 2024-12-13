@@ -1,5 +1,7 @@
 # Monorepo 项目实现共享 Tailwind 配置
 
+12345
+
 > 本文仅适用于有一定 monorepo 使用经验和原子化 CSS 爱好者。
 
 在这篇文章中，我将介绍如何在 monorepo 项目中实现多个 package 之间共享 tailwind.css 配置，从而避免每次创建一个新包时要复制配置文件、统一配置项需要重复修改多次的问题。
